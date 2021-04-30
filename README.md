@@ -1,2 +1,3 @@
 # js
-sve o javi
+vjezbe i radovi javaScript
+
